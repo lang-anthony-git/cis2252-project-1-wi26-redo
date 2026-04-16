@@ -9,7 +9,14 @@
 using namespace std;
 int main()
 {
+    string month1;
+    string month2;
+    string month3;
 
+    double rain1;
+    double rain2;
+    double rain3;
+    double average;
 
 
 
